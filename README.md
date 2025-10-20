@@ -1,12 +1,11 @@
 # Esse projeto é um desafio que eu propus fazer, onde eu tive que aprender a montar uma interface em SWING.
 # Nesse projeto utilizei o ChatGPT para me ensinar como utilizar essa tecnologia, usando como mentor e aprendendo com os meus erros.
+# Vale ressaltar que, utilizei o ChatGPT para auxiliar nos erros e melhoria de estrutura do código, mantendo o funcionamento e melhor entendimento estrutural.
 
 
 # Esse projeto permite você adicionar tarefas, onde as mesmas vão estar como "false", ou seja, a tarefa não estará como concluida.
 # Só se torna concluida quando marca como "Concluida", pelo botão com esse intuito de concluir a tarefa.
 # Tábem tem a possibilidade de remover a tarefa inserida, permitindo remover caso inseriu errado ou quando concluiu a tarefa.
-
-# Vale ressaltar que, utilizei o ChatGPT para auxiliar nos erros e melhoria de estrutura do código, mantendo o funcionamento e melhor entendimento estrutural.
 
 -------------------
 BIBLIOTECAS USADAS:
